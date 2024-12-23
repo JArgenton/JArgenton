@@ -1,8 +1,17 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+**Hi there, I'm Joao Argenton**  
+I’m passionate about embedded systems, software development, and data science. With experience in Python, C++, and tools like ROS and Protocol Buffers, I’m always excited to learn new technologies and frameworks.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🔧 **Current Projects**  
+- Participating in the development of the new [UTbots](https://www.instagram.com/utbots_utfpr?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) team for the Brazilian [SSL-EL](https://ssl.robocup.org/) competition. 🥉🤖  
+- Collaborating on a scientific research project at UTFPR focused on the efficiency and feasibility of real-time applications for [OPEN RAN 5G](https://openranbrasil.org.br/). 📊🔬  
+- Contributing to GlowCalibra, a project analyzing the efficiency of pesticide dispersion by drones using OpenCV. 🚁🌱
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 🌟 **Interests**  
+- Improving my skills in modern technologies like **Machine Learning** and **AI**.  
+- Contributing to open-source projects in robotics and automation.  
+- Solving real-world problems with innovative technologies.
+
+### 🏆 **Achievements**  
+- 🥉 **Third Place** in the [SSL-EL](https://ssl.robocup.org/) competition as part of the [UTbots](https://www.instagram.com/utbots_utfpr?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) team.  
+- 🎮 Developed a 2D game in pure C++ as a personal project, focusing on game mechanics and optimization.  
+
