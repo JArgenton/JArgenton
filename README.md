@@ -1,5 +1,5 @@
 **Hi there, I'm Joao Argenton**  
-I’m passionate about embedded systems, software development, and data science. With experience in Python, C++, and tools like ROS and Protocol Buffers, I’m always excited to learn new technologies and frameworks.
+I’m passionate about embedded systems, software development, and data science. With experience in Python, JavaScript, C/C++, and tools like ROS and Protocol Buffers, I’m always excited to learn new technologies and frameworks.
 
 ### 🔧 **Current Projects**  
 - Participating in the development of the new [UTbots](https://www.instagram.com/utbots_utfpr?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) team for the Brazilian [SSL-EL](https://ssl.robocup.org/) competition. 🥉🤖  
